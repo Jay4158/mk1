@@ -1,0 +1,4 @@
+{
+  "smoke": "Test1.js",
+  "default": "Test2.js"
+}
